@@ -1,1 +1,5 @@
-Bu dosya development'da oluşturuldu
+Bu dosya development'da oluşturuldu.
+
+Feature_1 branch'inde değiştirildi.
+
+Feature_2 branch'inde değiştirildi.
